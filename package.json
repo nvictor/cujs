@@ -1,0 +1,19 @@
+{
+  "name": "cuj",
+  "version": "1.0.0",
+  "description": "Interactive PWA for learning Critical User Journeys from the Google SRE Workbook.",
+  "scripts": {
+    "dev": "python3 -m http.server 4183",
+    "build": "node scripts/build.mjs",
+    "preview": "python3 -m http.server --directory dist 4184"
+  },
+  "keywords": [
+    "sre",
+    "slo",
+    "cuj",
+    "pwa"
+  ],
+  "author": "Victor Noagbodji",
+  "license": "MIT",
+  "type": "module"
+}
