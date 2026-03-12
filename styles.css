@@ -1,11 +1,11 @@
 :root {
-  --bg: #f6fbff;
-  --ink: #112231;
+  --bg: #f4f6ff;
+  --ink: #151d3f;
   --card: #ffffff;
-  --line: #c8dbe8;
-  --hero: #10324a;
-  --hero-2: #2f7f8f;
-  --accent: #f4b942;
+  --line: #cbd3ee;
+  --hero: #222c67;
+  --hero-2: #4162d9;
+  --accent: #f0b429;
   --ok: #0f766e;
   --bad: #b42318;
   font-family: "Avenir Next", "Segoe UI", sans-serif;
@@ -19,8 +19,8 @@ body {
   margin: 0;
   color: var(--ink);
   background:
-    radial-gradient(circle at 8% 8%, #d8f3ff 0, transparent 32%),
-    radial-gradient(circle at 90% 4%, #e0ffe8 0, transparent 30%),
+    radial-gradient(circle at 8% 8%, #dbe5ff 0, transparent 34%),
+    radial-gradient(circle at 90% 4%, #eee2ff 0, transparent 30%),
     var(--bg);
 }
 
