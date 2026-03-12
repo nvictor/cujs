@@ -57,7 +57,7 @@ const app = document.querySelector('#app');
 app.innerHTML = `
   <main>
     <header class="hero">
-      <p class="eyebrow">Google SRE Workbook Study Lab</p>
+      <p class="eyebrow">Google SRE Workbook Study</p>
       <h1>Critical User Journeys (CUJs)</h1>
       <p>
         Learn how to define and measure CUJs from <a href="${sourceUrl}" target="_blank" rel="noreferrer">Implementing SLOs</a> through interactive knowledge checks.

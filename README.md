@@ -1,4 +1,4 @@
-# Critical User Journeys (CUJ) Lab
+# Critical User Journeys (CUJ)
 
 An interactive Progressive Web App (PWA) that teaches Critical User Journeys (CUJs) using concepts from the Google SRE Workbook chapter [Implementing SLOs](https://sre.google/workbook/implementing-slos/).
 

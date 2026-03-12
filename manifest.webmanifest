@@ -1,6 +1,6 @@
 {
-  "name": "Critical User Journeys Lab",
-  "short_name": "CUJ Lab",
+  "name": "Critical User Journeys",
+  "short_name": "CUJ",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
